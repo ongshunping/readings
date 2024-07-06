@@ -2,6 +2,7 @@
 
 ## Junior Software Engineer Reading List
 ### Read This First
+- The Pragmatic Programmer: Your Journey To Mastery
 - Pragmatic Thinking and Learning: Refactor Your Wetware
 ### Fundamentals
 - Code Complete
@@ -79,10 +80,8 @@
 ### Read This First
 - Mastery: The Keys to Success and Long-Term Fulfillment
 ### Fundamentals
-- 
 ### Development Theory
 ### Philosophy of Programming
-
 ### Mentality
 ### Software Engineering Skill Sets
 ### Design
